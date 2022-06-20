@@ -5,9 +5,15 @@
 
 ### Personal
 
-* [github.com/ZenithalHourlyRate](https://github.com/ZenithalHourlyRate): My role model since my senior high
+* [github.com/ZenithalHourlyRate](https://github.com/ZenithalHourlyRate): My role model since senior high
 * [github.com/aijisjtu](https://github.com/aijisjtu): Here
+* [aijisjtu.github.io/aijisjtu](https://aijisjtu.github.io): Personal web
+
+
+### Contest 
+* [aijiicpc.github.io](https://aijiicpc.github.io):  Web for contest
+* [github.com/aijiicpc](https://github.com/aijiicpc): Account focused on contest
+
 
 ### Status
-* Buried in studying for the moment. This line is to be deleted
-* Day dreaming
+* passionate
