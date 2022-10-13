@@ -10,10 +10,5 @@
 * [aijisjtu.github.io/aijisjtu](https://aijisjtu.github.io): Personal web
 
 
-### Contest 
-* [aijiicpc.github.io](https://aijiicpc.github.io):  Web for contest
-* [github.com/aijiicpc](https://github.com/aijiicpc): Account focused on contest
-
-
 ### Status
 * passionate
