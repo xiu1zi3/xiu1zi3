@@ -4,7 +4,7 @@
 -->
 
 ### Personal
-
+* [sprout.vip](https://sprout.vip): An excellent student who has an impact on me
 * [github.com/ZenithalHourlyRate](https://github.com/ZenithalHourlyRate): My role model since senior high
 * [github.com/aijisjtu](https://github.com/aijisjtu): Here
 * [aijisjtu.github.io/aijisjtu](https://aijisjtu.github.io): Personal web
