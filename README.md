@@ -4,8 +4,7 @@
 -->
 
 ### Personal
-* [sprout.vip](https://sprout.vip): An excellent student who has an impact on me
-* [github.com/ZenithalHourlyRate](https://github.com/ZenithalHourlyRate): My role model since senior high
+* [Download resume]([https://sprout.vip](http://127.0.0.1:5500/pdf/cv/resume_JiAI_EN.pdf)): My resume
 * [github.com/aijisjtu](https://github.com/aijisjtu): Here
 * [aijisjtu.github.io/aijisjtu](https://aijisjtu.github.io): Personal web
 
