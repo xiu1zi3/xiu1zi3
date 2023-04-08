@@ -5,7 +5,7 @@
 
 ### Personal
 * [Download resume](https://aijisjtu.github.io/pdf/cv/resume_JiAI_EN.pdf): My resume
-* [aijisjtu.github.io/aijisjtu](https://aijisjtu.github.io): Personal web
+* [aijisjtu.github.io](https://aijisjtu.github.io): Personal web
 
 
 ### Status
