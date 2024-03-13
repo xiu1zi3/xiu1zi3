@@ -3,6 +3,6 @@
 
 -->
 ### About
-* [Resume](https://aijisjtu.github.io/pdf/resume_aiji_CN_202403.pdf)
+* [Resume](https://aijisjtu/艾骥_后端开发_实习.pdf)
 ### Status
 * passionate
