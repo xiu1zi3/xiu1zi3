@@ -3,6 +3,6 @@
 
 -->
 ### About
-* [Resume](艾骥_后端开发_实习.pdf)
+* [Resume](https://ice2604-navi.github.io/艾骥_后端开发_实习.pdf)
 ### Status
 * passionate
