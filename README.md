@@ -6,5 +6,5 @@
 * passionate
 -->
 
-### Status
-* 学习Java
+### About
+* Java后端开发
