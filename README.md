@@ -11,13 +11,12 @@
 
 ### Project
 * SpringBoot框架项目
-<div align="center"> <a href="https://github.com/aijisjtu/Bot-Battle"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aijisjtu&theme=github-compact&repo=Bot-Battle"/> </a> </div>
+<div align="center"> <a href="https://github.com/aijisjtu/Bot-Battle"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aijisjtu&theme=tokyo-night&repo=Bot-Battle"/> </a> </div>
 
-### GitHub Data
+<!-- ### GitHub Data-->
 
-[![Ji Ai's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aijisjtu&theme=github-compact&hide_border=true&area=true&hide_title=true)](https://github.com/aijisjtu)
+<!-- [![aijisjtu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aijisjtu&theme=tokyo-night)](https://github.com/aijisjtu) -->
 
-
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aijisjtu&layout=compact"/>
-</div>
+</div>-->
