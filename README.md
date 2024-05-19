@@ -29,9 +29,13 @@
 
 ### GitHub Data
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=aijisjtu&show_icons=true&theme=tokyonight&include_all_commits=true&hide=prs,issues,contribs"/>
-</div>
+</div>-->
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aijisjtu&theme=tokyonight&count_private=true&show_icons=true&hide_title=true"> </div>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aijisjtu&layout=compact&theme=tokyonight) -->
 
 <!-- [![aijisjtu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aijisjtu&theme=tokyo-night)](https://github.com/aijisjtu) -->
 
