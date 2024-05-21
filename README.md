@@ -11,7 +11,7 @@
 
 ### Project
 * SpringBoot框架项目
-<div align="center"> <a href="https://github.com/aijisjtu/Bot-Battle"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aijisjtu&theme=prussian&repo=Bot-Battle"/> </a> </div>
+<div align="center"> <a href="https://github.com/xiu1zi3/Bot-Battle"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiu1zi3&theme=prussian&repo=Bot-Battle"/> </a> </div>
 框架：
 <div align="center">
 <img src="https://img.shields.io/badge/-Java-important?style=for-the-badge" />
@@ -34,11 +34,11 @@
 </div>-->
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aijisjtu&theme=tokyonight&count_private=true&show_icons=true&hide_title=true"> </div>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aijisjtu&layout=compact&theme=tokyonight) -->
+<img src="https://github-readme-stats.vercel.app/api?username=xiu1zi3&theme=tokyonight&count_private=true&show_icons=true&hide_title=true"> </div>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiu1zi3&layout=compact&theme=tokyonight) -->
 
-<!-- [![aijisjtu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aijisjtu&theme=tokyo-night)](https://github.com/aijisjtu) -->
+<!-- [![aijisjtu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiu1zi3&theme=tokyo-night)](https://github.com/aijisjtu) -->
 
 <!--<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aijisjtu&theme=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiu1zi3&theme=compact"/>
 </div>-->
