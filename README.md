@@ -21,10 +21,10 @@
 组件、中间件等：
 <div align="center">
 <img src="https://img.shields.io/badge/-MySQL-orange" />
-<img src="https://img.shields.io/badge/-RocketMQ-83ef12"/>
-<img src="https://img.shields.io/badge/-ShardingSphere-yellow" />
-<img src="https://img.shields.io/badge/-Redis-blue"/>
-<img src="https://img.shields.io/badge/-Maven-cyan"/>
+<img src="https://img.shields.io/badge/-Redis-83ef12"/>
+<img src="https://img.shields.io/badge/-RocketMQ-yellow" />
+<img src="https://img.shields.io/badge/-ShardingSphere-blue"/>
+<img src="https://img.shields.io/badge/-Sentinel-cyan"/>
 </div>
 
 * 仿北大Bot对战平台
