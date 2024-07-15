@@ -9,6 +9,7 @@
 ### About
 * Java 后端开发
 
+### Project
 * 短链接系统（在做了）
 <div align="center"> <a href="https://github.com/xiu1zi3/Short-Link"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiu1zi3&theme=prussian&repo=Short-Link"/> </a> </div>
 框架：
@@ -26,7 +27,6 @@
 <img src="https://img.shields.io/badge/-Maven-cyan"/>
 </div>
 
-### Project
 * 仿北大Bot对战平台
 <div align="center"> <a href="https://github.com/xiu1zi3/Bot-Battle"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiu1zi3&theme=prussian&repo=Bot-Battle"/> </a> </div>
 框架：
