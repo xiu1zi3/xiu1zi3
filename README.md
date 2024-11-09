@@ -7,7 +7,6 @@
 -->
 
 ### About
-* Java 后端开发
 * 笔记站：[xiu1zi3.github.io](https://xiu1zi3.github.io/)
 * 博客站：[cnblogs.com/xiu1zi3](https://www.cnblogs.com/xiu1zi3)
 
